@@ -22,7 +22,7 @@
 ### 🧭 About Me
 
 - 🛠️ IT Systems Administrator working across **Salesforce**, **Microsoft 365 / Entra ID / Intune**, **network security**, and **full-stack web development**
-- 🎓 M.S. in Cybersecurity, University of Maryland (2025)
+- 🎓 B.S. in Information Science, University of Maryland (2025)
 - 🔐 Focused on secure authentication design (JWT, OAuth, RBAC), DLP, and infrastructure hardening
 - 🤖 Currently building LLM-powered automation pipelines integrated with Salesforce
 - 🌱 Always exploring new tools in automation, AI tooling, and cloud security
