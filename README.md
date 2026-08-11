@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishitaramola&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ishita-ramola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
