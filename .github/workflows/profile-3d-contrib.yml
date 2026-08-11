@@ -1,9 +1,8 @@
-# Place this file at: .github/workflows/profile-3d-contrib.yml  in your PROFILE repo
 name: 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # runs daily at 6am UTC
+    - cron: "0 6 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -16,8 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: ishitaramola
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & push
         run: |
