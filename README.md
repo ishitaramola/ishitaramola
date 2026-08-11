@@ -1,7 +1,5 @@
 <!--
   GITHUB PROFILE README
-  Setup: create a new repo named EXACTLY your GitHub username (e.g. "ishita" if your handle is github.com/ishita),
-  make it public, add this file as README.md in the repo root, and it will render on your profile page.
 -->
 
 <h1 align="center">
@@ -14,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishitaramola&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/ishita-ramola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,7 +20,7 @@
 ### 🧭 About Me
 
 - 🛠️ IT Systems Administrator working across **Salesforce**, **Microsoft 365 / Entra ID / Intune**, **network security**, and **full-stack web development**
-- 🎓 B.S. in Information Science, University of Maryland (2025)
+- 🎓 M.S. in Cybersecurity, University of Maryland (2025)
 - 🔐 Focused on secure authentication design (JWT, OAuth, RBAC), DLP, and infrastructure hardening
 - 🤖 Currently building LLM-powered automation pipelines integrated with Salesforce
 - 🌱 Always exploring new tools in automation, AI tooling, and cloud security
@@ -54,6 +52,31 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitaramola&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏗️ System Design — Auth Rebuild
+
+<p align="center">
+  <img src="./auth-architecture.svg" width="800" alt="Auth architecture diagram" />
+</p>
+
+<p align="center"><i>A secure session/token flow I designed and shipped: Redis-backed sessions, RS256-signed JWTs, rotating refresh tokens, and a two-channel (email + SMS) invite system.</i></p>
+
+---
+
+### 🔭 Currently Building
+
+- LLM-powered batch analysis pipeline for Salesforce leads/accounts (DeepSeek-R1 via local Ollama, hash-based change detection)
+- Credential verification automation using Playwright
+
+---
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="800" alt="3D contribution graph" />
 </p>
 
 ---
