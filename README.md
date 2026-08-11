@@ -66,12 +66,6 @@
 
 ---
 
-### 🔭 Currently Building
-
-- LLM-powered batch analysis pipeline for Salesforce leads/accounts (DeepSeek-R1 via local Ollama, hash-based change detection)
-- Credential verification automation using Playwright
-
----
 
 ### 🧊 3D Contribution Graph
 
