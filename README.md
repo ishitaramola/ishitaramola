@@ -60,14 +60,14 @@ Secure full-stack web application enabling Maryland Home Improvement Contractor 
 
 ---
 
-### 🧊 ### WakaTime Weekly Stats
+### ⌨️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-### 
+### 🧊 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="800" alt="3D contribution graph" />
