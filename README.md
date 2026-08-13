@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+### 💼 Featured Work
+ 
+**MHIC Self-Serve Portal** — *Zitro Services LLC (private repo)*
+Secure full-stack web application enabling Maryland Home Improvement Contractor (MHIC) license applicants to complete their licensing journey digitally — magic link auth, card payments, SharePoint document upload, appointment booking, and real-time case tracking.
+`React` · `Node.js` · `Salesforce` · `Microsoft Graph API`
+ 
 ---
 
 ### 📊 GitHub Stats
