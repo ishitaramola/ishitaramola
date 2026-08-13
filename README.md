@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
----
+
 ### 💼 Featured Work
  
 **MHIC Self-Serve Portal** — *Zitro Services LLC (private repo)*
