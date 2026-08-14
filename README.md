@@ -63,6 +63,85 @@ Secure full-stack web application enabling Maryland Home Improvement Contractor 
 ### ⌨️ WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.50%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌆 Daytime                59 commits          ███████████████████░░░░░░   76.62 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Wednesday                20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Thursday                 20 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Friday                   15 commits          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ishitaramola/ishitaramola/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/08/2026 02:28:22 UTC
 <!--END_SECTION:waka-->
 
 ---
